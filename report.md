@@ -1,10 +1,14 @@
 # SOFE3980U Lab 1 Report: Binary Calculator
 
-**Name:** Cris Huynh
-**Student ID:** 101072055
-**Course:** ENGR-5520G-001
-**GitHub Repository:** [Paste GitHub link here]
-**Video Demo:** [Paste video link here]
+**Name:** Cris Huynh 
+
+**Student ID:** 101072055 
+
+**Course:** ENGR-5520G-001 
+
+**GitHub Repository:** https://github.com/CrisH2307/ENGR-5520G-001
+
+**Video Demo:** [[Link]](https://drive.google.com/file/d/13AV0eTRX1rp3jySRgpcuk_ZUKBzwi8Hz/view?usp=drive_link)
 
 ---
 
