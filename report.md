@@ -1,4 +1,4 @@
-# SOFE3980U Lab 1 Report: Binary Calculator
+# SOFE5520U Lab 1 Report: Binary Calculator
 
 **Name:** Cris Huynh 
 
